@@ -1,14 +1,14 @@
 # Hi, I'm Bahar 👋
 
-🎓 Computer Engineering Co-op student at **McMaster University**
+🎓 Computer Engineering Co-op student at McMaster University
 
-⚙️ Interested in **Embedded Systems, FPGA, PCB Design, and hardware-software integration**
+⚙️ Interested in Embedded Systems, FPGA, PCB Design, and hardware-software integration
 
 🔧 I enjoy building projects involving microcontrollers, sensors, communication protocols, and real-time systems.
 
-💙 Favourite microcontrollers: **ESP32** and **STM32**
+💙 Favourite microcontrollers: ESP32 and STM32
 
-🌱 Currently expanding my knowledge in **Embedded Systems, FreeRTOS, FPGA Development, and PCB Design**
+🌱 Currently expanding my knowledge in Embedded Systems, FreeRTOS, FPGA Development, and PCB Design
 
 ---
 
